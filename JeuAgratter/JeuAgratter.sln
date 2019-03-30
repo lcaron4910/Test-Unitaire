@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuAgratter", "JeuAgratter\JeuAgratter.csproj", "{159CE995-A502-44E9-A9E3-1E7C51F213B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JeuTestUnitaire", "JeuTestUnitaire\JeuTestUnitaire.csproj", "{24C3329C-380C-4614-A6C1-B07C20600936}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{159CE995-A502-44E9-A9E3-1E7C51F213B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{159CE995-A502-44E9-A9E3-1E7C51F213B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{159CE995-A502-44E9-A9E3-1E7C51F213B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{159CE995-A502-44E9-A9E3-1E7C51F213B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24C3329C-380C-4614-A6C1-B07C20600936}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24C3329C-380C-4614-A6C1-B07C20600936}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24C3329C-380C-4614-A6C1-B07C20600936}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24C3329C-380C-4614-A6C1-B07C20600936}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC09698A-E4FF-4043-83E1-4A9AB6154234}
+	EndGlobalSection
+EndGlobal
