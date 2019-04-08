@@ -49,6 +49,7 @@ public void JeuConstructorTest()
             Assert.Inconclusive("TODO: implémentez le code pour vérifier la cible");
         }
 ```
-Pareil que l'exemple ci-dessus dans ce cas nous etudions le constructeur.
-Afin de realiser c est projet nous avons besoin des assets voici  sa class:
+Pareil que l'exemple ci-dessus dans ce cas nous etudions le constructeur. 
+Afin de realiser c est projet nous avons besoin des assets voici  sa class: 
+
 ![CaptureSchema.png](http://image.noelshack.com/fichiers/2019/15/1/1554752776-capture2.png) 
