@@ -1,5 +1,5 @@
 # Test-Unitaire
-# Test Unitaire #
+
 Présentation du projet: le but est de gérer les tests unitaires nous avons pour cela realiser 2 projet , un GenCode et un jeu de grattage.
 
 Les outils mis en oeuvre :
@@ -15,6 +15,6 @@ Un test unitaire va permettre:
 4. -Il permettra d'effectuer ce que l'on nommme des tests de non regression. Ainsi si l'on doit effectuer une maintenance évolutive ou corrective on pourra rejouer cette séance de code de test afin de valider que la classe fonctionne toujours correctement. 
 
 
-
+## Illustration ##
 ![CaptureSchema.png](http://image.noelshack.com/fichiers/2019/15/1/1554751336-capture.png)
 
